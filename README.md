@@ -1,3 +1,3 @@
 # Architecture-Software
 ## IOT
-[ESPBox](./iot/technical_architecture.md)
+[ESPBox](./iot/esp-box/technical_architecture.md)
